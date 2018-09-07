@@ -1,0 +1,7 @@
+The HTML page contains 
+
+The section is used to display information from a server.
+
+The calls a function (if it is clicked).
+
+The function requests data from a web server and displays it:
